@@ -11,7 +11,7 @@ Future<void> main() async {
 
   runApp(
     MaterialApp(
-      title: 'Myait Zimon Yin',
+      title: '###',
       debugShowCheckedModeBanner: false,
       initialRoute: isLoggedIn ? Routes.homeScreen : Routes.auth,
       onGenerateRoute: Routes.routeGenerator,

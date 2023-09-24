@@ -28,7 +28,7 @@ class LocalString {
       "alreadyHaveAnAccount?": "Already have an Account ?",
       "createANewAccount": "Create a new Account",
       "welcomeToTheApp": "Welcome to the App",
-      "MyaitZimonYin": "Myait Zimon Yin",
+      "MyaitZimonYin": "###",
       "confirmPassword": "Confirm Password",
       "searchSomething": "Search Something",
       "noConnection": "No Internet Connection",
