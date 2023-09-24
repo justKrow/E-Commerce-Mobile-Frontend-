@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/krow/.gradle/daemon/7.5/com.example.###.app-mergeDebugResources-20:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/home/krow/development/myait-zimon-yin-flutter/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,879",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "528,1043"
+                    },
+                    "to": {
+                        "startLines": "2,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,415",
+                        "endLines": "7,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "410,579"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.###.app-mergeDebugResources-20:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/home/krow/development/myait-zimon-yin-flutter/android/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "173,-1",
+                        "endLines": "9,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "621,-1"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,508",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "503,672"
+                    }
+                }
+            ]
+        }
+    ]
+}
